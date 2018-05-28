@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
- 
+
 namespace Treehouse.FitnessFrog.Models
 {
     /// <summary>
